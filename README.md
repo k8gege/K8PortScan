@@ -6,5 +6,5 @@ Windows:  https://github.com/k8gege/K8tools/blob/master/K8PortScan.exe<br>
 Kali_x86: https://github.com/k8gege/K8tools/blob/master/K8PortScan_Kali_x86<br>
 Suse_x64: https://github.com/k8gege/K8tools/blob/master/K8PortScan_Suse10_x64<br>
 
-K8PortScan VS S
+K8PortScan & S
 <img src="https://raw.githubusercontent.com/k8gege/K8PortScan/master/Banner.gif"></img>
