@@ -9,7 +9,7 @@ Suse_x64: https://github.com/k8gege/K8tools/blob/master/K8PortScan_Suse10_x64<br
 K8PortScan
 <img src="https://raw.githubusercontent.com/k8gege/K8PortScan/master/Banner.gif"></img>
 
-## 该程序Windows下效果可能不太好，速度慢会有其它问题，所以建议Windows用户使用Ladon
+## 该程序Windows下可能不太好，速度慢会有其它问题，所以建议使用Ladon
 Ladon下载: https://github.com/k8gege/Ladon <br>
 Ladon端口扫描: https://github.com/k8gege/Ladon/wiki/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86-%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F%28%E6%9C%8D%E5%8A%A1%E8%AF%86%E5%88%AB%29
 
